@@ -2,11 +2,15 @@
 *{
 	background-color:#f8f8f8;
 }
-
+h1{
+	text-align:center;
+}
 .book-library{
 	background-color:#ffffff;
+	
 }
 img{
+	margin-top:20px;
 	margin-left:50%;
 }
 p{
